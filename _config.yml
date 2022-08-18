@@ -11,7 +11,7 @@ description: >
 baseurl: ""
 url: "https://appliedopticsun.github.io"
 twitter_username: morinryan
-github_username:  morinlab
+github_username:  appliedopticsun
 images_dir: "/images/"
 
 # Build settings
