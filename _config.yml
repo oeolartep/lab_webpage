@@ -1,16 +1,15 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: Applied Optics research at Universidad Nacional de Colombia
+lab_name: Applied Optics UN Lab
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  The applied optics group
+institution: UNAL
+email: oeolartep@unal.edu.co
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
-  a combination of dry lab and wet lab experiments.
+  The Applied Optics Lab is devoted to the advancement of optical sciences focused on applications, from visual sciences and biomedical imaging to industrial holography. 
 baseurl: ""
 url: "https://appliedopticsun.github.io"
-twitter_username: morinryan
+twitter_username: none
 github_username:  appliedopticsun
 images_dir: "/images/"
 
