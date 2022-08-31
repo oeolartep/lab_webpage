@@ -1,9 +1,9 @@
-- name: Dr. 1
+- name: Dr. Yobani Mejía
   is_pi: True
   is_current: True
   position: Associate Professor
   orcid:  
-  scholar: https://www.gooogle scholar
+  scholar: https://scholar.google.es/citations?user=inzC09EAAAAJ&hl=es
   researchgate: https://www.researchgate.net/profile
   github: none
   twitter: none
@@ -21,12 +21,12 @@
     aaaaaaaaaaaaaaaa
     aaaaaaaaaaaaaa
 
-  photo: team/photo1.jpg
+  photo: team/yobani.jpg
 
-- name: Dr. 2
-  is_pi: False
-  is_current: False
-  position: Research Associate
+- name: Dr. Ricardo Amézquita
+  is_pi: True
+  is_current: True
+  position: Assistant Professor - Industrial Professor
   researchgate: none
   scholar: https://scholar.google.ca/citations?hl=en&user=
   bio: >
@@ -43,5 +43,27 @@
     aaaaaaaaaaaaaaaaaaaaaaaa
     aaaaaaaaaaaaaaaa
     aaaaaaaaaaaaaa
-  photo: team/photo2.jpg
+  photo: team/ricardo.jpg
+  
+  - name: Dr. Omar E. Olarte
+  is_pi: True
+  is_current: True
+  position: Assistant Professor
+  researchgate: none
+  scholar: https://scholar.google.com/citations?user=9-cfCZEAAAAJ&hl=en
+  bio: >
+    My main role at the  ... 
+    I am in the <a href="http://www.unal.edu.co">Department of Physics</a>
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaa
+  photo: team/omar.jpg
 
